@@ -26,3 +26,4 @@
 |2|[교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377)|구현|2021.12.29|[프로그래머스 - 교점에 별 만들기 (위클리 챌린지 10주차)](https://velog.io/@front/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B5%90%EC%A0%90%EC%97%90-%EB%B3%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9C%84%ED%81%B4%EB%A6%AC-%EC%B1%8C%EB%A6%B0%EC%A7%80-10%EC%A3%BC%EC%B0%A8)|
 |2|[피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)|탐색|2021.12.30||
 |2|[빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)|탐색|2022.1.1|[[level2] 프로그래머스 - 빛의 경로 사이클(JAVA)](https://jisunshine.tistory.com/175)|
+|4|[징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)|이분 탐색|2022.1.2|[[python] 프로그래머스 - 징검다리](https://deok2kim.tistory.com/122)|
