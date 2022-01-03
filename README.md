@@ -27,3 +27,4 @@
 |2|[피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)|탐색|2021.12.30||
 |2|[빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)|탐색|2022.1.1|[[level2] 프로그래머스 - 빛의 경로 사이클(JAVA)](https://jisunshine.tistory.com/175)|
 |4|[징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)|이분 탐색|2022.1.2|[[python] 프로그래머스 - 징검다리](https://deok2kim.tistory.com/122)|
+|4|[지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050)|BFS, |2022.1.3|[[ 프로그래머스 지형 이동 (Lv4) ] (C++)](https://yabmoons.tistory.com/470)|
