@@ -1,7 +1,7 @@
 # 프로그래머스 문제 알고리즘
 
-|Level|문제 이름|알고리즘|날짜|참고|
-|---|---|---|---|---|
+|Level|문제 이름|알고리즘|날짜|참고|상태|
+|---|---|---|---|---|---|
 |3|[거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)|DP|2021.12.6|[[프로그래머스] LV.3 거스름돈 (JS)](https://velog.io/@longroadhome/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-LV.3-%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88-JS)｜[[JS] 프로그래머스 - 거스름 돈](https://taesung1993.tistory.com/74)|
 |3|[N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)|백트래킹|2021.12.7|[[프로그래머스] LV.3 N-Queen (JS)](https://velog.io/@longroadhome/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-LV.3-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%A7%91%ED%95%A9-JS-2xs6gra3)｜[코딩테스트, 상급 , 여왕말, N Queens문제](https://www.youtube.com/watch?v=gcuZ_VGIcn4&t=3s)|
 |3|[하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)|재귀|2021.12.8|['하노이의 탑' 이해하기](https://shoark7.github.io/programming/algorithm/tower-of-hanoi)|
