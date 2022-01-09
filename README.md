@@ -30,4 +30,5 @@
 |4|[지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050)|BFS, 그래프|2022.1.3|[[ 프로그래머스 지형 이동 (Lv4) ] (C++)](https://yabmoons.tistory.com/470)|
 |4|[사칙연산](https://programmers.co.kr/learn/courses/30/lessons/1843)|DP|2022.1.4|[[프로그래머스] LV.4 사칙연산](https://velog.io/@longroadhome/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-LV.4-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)|
 |4|[단어 퍼즐](https://programmers.co.kr/learn/courses/30/lessons/12983)|DP|2022.1.5|[[프로그래머스] 단어 퍼즐 / Python](https://dev-note-97.tistory.com/177)|
-|4|[가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060?language=javascript)|트라이|2022.1.6|[[프로그래머스] 가사 검색 / 2020 KAKAO BLIND RECRUITMENT - JAVA](https://girawhale.tistory.com/110)|X|
+|4|[가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)|트라이|2022.1.6|[[프로그래머스] 가사 검색 / 2020 KAKAO BLIND RECRUITMENT - JAVA](https://girawhale.tistory.com/110)|X|
+|4|[무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)|그리디|2022.1.9|[프로그래머스 - [Level 4] 무지의 먹방 라이브(JAVASCRIPT)](https://gwang920.github.io/algorithm/progreammers-2-42891/)｜[무지의 먹방 라이브](https://velog.io/@cckn/%EB%AC%B4%EC%A7%80%EC%9D%98-%EB%A8%B9%EB%B0%A9-%EB%9D%BC%EC%9D%B4%EB%B8%8C)｜[[프로그래머스] 무지의 먹방 라이브 javascript](https://akh95123.blogspot.com/2019/09/javascript.html)||
