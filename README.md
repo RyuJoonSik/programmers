@@ -32,4 +32,4 @@
 |4|[단어 퍼즐](https://programmers.co.kr/learn/courses/30/lessons/12983)|DP|2022.1.5|[[프로그래머스] 단어 퍼즐 / Python](https://dev-note-97.tistory.com/177)|
 |4|[가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)|트라이|2022.1.6|[[프로그래머스] 가사 검색 / 2020 KAKAO BLIND RECRUITMENT - JAVA](https://girawhale.tistory.com/110)|X|
 |4|[무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)|그리디|2022.1.9|[프로그래머스 - [Level 4] 무지의 먹방 라이브(JAVASCRIPT)](https://gwang920.github.io/algorithm/progreammers-2-42891/)｜[무지의 먹방 라이브](https://velog.io/@cckn/%EB%AC%B4%EC%A7%80%EC%9D%98-%EB%A8%B9%EB%B0%A9-%EB%9D%BC%EC%9D%B4%EB%B8%8C)｜[[프로그래머스] 무지의 먹방 라이브 javascript](https://akh95123.blogspot.com/2019/09/javascript.html)||
-|4|[미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/81304)|다익스트라, |2022.1.10|[카카오 코딩 테스트 - 미로 탈출 (Python 풀이)](https://www.youtube.com/watch?v=MaVaofAobXw)||
+|4|[미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/81304)|다익스트라, 비트 |2022.1.10|[카카오 코딩 테스트 - 미로 탈출 (Python 풀이)](https://www.youtube.com/watch?v=MaVaofAobXw)||
