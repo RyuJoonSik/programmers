@@ -35,3 +35,4 @@
 |4|[미로 탈출](https://programmers.co.kr/learn/courses/30/lessons/81304)|다익스트라, 비트|2022.1.10|[카카오 코딩 테스트 - 미로 탈출 (Python 풀이)](https://www.youtube.com/watch?v=MaVaofAobXw)||
 |4|[호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063)|유니온-파인드|2022.1.11|[[프로그래머스] 호텔 방 배정 (2019 카카오 겨울 인턴십) / JavaScript](https://leego.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%98%B8%ED%85%94-%EB%B0%A9-%EB%B0%B0%EC%A0%95-2019-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B2%A8%EC%9A%B8-%EC%9D%B8%ED%84%B4%EC%8B%AD-JavaScript)||
 |4|[동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260)|스택|2022.1.12|[[프로그래머스] 동굴 탐험 (자바)](https://jellyinghead.tistory.com/41)||
+|4|[3 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902)|DP|2022.1.13|[[ 프로그래머스 3xn 타일링 (Lv4) ] (C++)](https://yabmoons.tistory.com/471)||
