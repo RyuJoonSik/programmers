@@ -37,3 +37,4 @@
 |4|[동굴 탐험](https://programmers.co.kr/learn/courses/30/lessons/67260)|스택|2022.1.12|[[프로그래머스] 동굴 탐험 (자바)](https://jellyinghead.tistory.com/41)||
 |4|[3 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902)|DP|2022.1.13|[[ 프로그래머스 3xn 타일링 (Lv4) ] (C++)](https://yabmoons.tistory.com/471)||
 |4|[매출 하락 최소화](https://programmers.co.kr/learn/courses/30/lessons/72416)|DP|2022.1.14|[카카오 코딩 테스트 - 매출 하락 최소화 (Java 풀이)](https://www.youtube.com/watch?v=4zzYYmnt74s)||
+|1|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|구현|2022.1.15|||
