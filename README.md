@@ -39,3 +39,4 @@
 |4|[매출 하락 최소화](https://programmers.co.kr/learn/courses/30/lessons/72416)|DP|2022.1.14|[카카오 코딩 테스트 - 매출 하락 최소화 (Java 풀이)](https://www.youtube.com/watch?v=4zzYYmnt74s)||
 |1|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|구현|2022.1.15|||
 |2|[k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)|구현|2022.1.15|||
+|2|[주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)|구현|2022.1.16|||
