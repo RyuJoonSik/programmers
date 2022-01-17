@@ -41,3 +41,4 @@
 |2|[k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)|구현|2022.1.15|||
 |2|[주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)|구현|2022.1.16|||
 |2|[양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)|구현, 완전 탐색|2022.1.16|[2022 카카오 신입공채 1차 온라인 코딩테스트 for Tech developers 문제해설](https://tech.kakao.com/2022/01/14/2022-kakao-recruitment-round-1/)||
+|2|[양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343)|dfs, 완전 탐색|2022.1.16|[2022 카카오 신입공채 1차 온라인 코딩테스트 for Tech developers 문제해설](https://tech.kakao.com/2022/01/14/2022-kakao-recruitment-round-1/)||
