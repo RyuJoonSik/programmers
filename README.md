@@ -43,3 +43,4 @@
 |2|[양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)|구현, 완전 탐색|2022.1.16|[2022 카카오 신입공채 1차 온라인 코딩테스트 for Tech developers 문제해설](https://tech.kakao.com/2022/01/14/2022-kakao-recruitment-round-1/)||
 |3|[양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343)|dfs, 완전 탐색|2022.1.17|[2022 카카오 신입공채 1차 온라인 코딩테스트 for Tech developers 문제해설](https://tech.kakao.com/2022/01/14/2022-kakao-recruitment-round-1/)||
 |3|[파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344)|누적 합|2022.1.18|[2022 카카오 신입공채 1차 온라인 코딩테스트 for Tech developers 문제해설](https://tech.kakao.com/2022/01/14/2022-kakao-recruitment-round-1/)||
+|3|[사라지는 발판](https://programmers.co.kr/learn/courses/30/lessons/92345)|완전 탐색|2022.1.20|[2022 카카오 신입공채 1차 온라인 코딩테스트 for Tech developers 문제해설](https://tech.kakao.com/2022/01/14/2022-kakao-recruitment-round-1/)|X|
