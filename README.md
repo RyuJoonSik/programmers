@@ -49,4 +49,4 @@
 |4|[[3차] 자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685)|트라이|2022.1.25|[[프로그래머스] [3차] 자동완성 / Java](https://dev-note-97.tistory.com/232)｜[[ 프로그래머스 [3차]자동완성 (Lv4) ] (C++)](https://yabmoons.tistory.com/490)||
 |4|[짝수 행 세기](https://programmers.co.kr/learn/courses/30/lessons/68647)|조합|2022.1.26|[[ 프로그래머스 [ 월간코드챌린지 ] 짝수 행 세기 ] (C++)](https://yabmoons.tistory.com/583)|X|
 |4|[올바른 괄호의 갯수](https://programmers.co.kr/learn/courses/30/lessons/12929)|카탈란|2022.1.27|[[프로그래머스] 올바른 괄호의 갯수](https://bb-dochi.tistory.com/51)||
-|4|[쿠키 구입](https://programmers.co.kr/learn/courses/30/lessons/49995)|카탈란|2022.1.27|[프로그래머스] C++ 쿠키 구입(Level 4)](https://hwan-shell.tistory.com/308)||
+|4|[쿠키 구입](https://programmers.co.kr/learn/courses/30/lessons/49995)|카탈란|2022.1.27|[[프로그래머스] C++ 쿠키 구입(Level 4)](https://hwan-shell.tistory.com/308)||
